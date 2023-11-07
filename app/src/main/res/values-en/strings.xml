@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto_boton">Create Product</string>
+    <string name="texto_boton_guardar">Save Product</string>
+    <string name="texto_nombre_producto">Name of the Product</string>
+</resources>

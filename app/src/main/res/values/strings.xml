@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Evaluacion 2</string>
+    <string name="title_activity_crear_producto">CrearProductoActivity</string>
+    <string name="texto_boton">Crear Producto</string>
+    <string name="texto_boton_guardar">Guardar Producto</string>
+    <string name="texto_nombre_producto">Nombre del Producto</string>
+</resources>
